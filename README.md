@@ -1,6 +1,6 @@
-# CST8334 Team 2: CashCan's Seller Side
+CashCan's Seller Side
 
-This repository contains source-code for the CashCan's seller side. To get more familiar what CashCan is and what tools we have used up to this stage you can either continue reading this documentation or checkout our final slides [right here](https://algonquinlivecom.sharepoint.com/:p:/t/21f-cst8334-310-team-2/EfZTjgMre6ZIny8ePVZP3-EB0uCy_QQyB2IRX7UG4iLHgQ?e=HprqUl)!
+This repository contains source-code for the CashCan's seller side. To get more familiar what CashCan is and what tools we have used up to this stage you can either continue reading this documentation
 
 ## Users in CashCan
 There are only two types of users in CashCan: **sellers** and **drivers**. As mentioned previously, this repository contains source code for seller side only. However, it also includes basic general pages and elements like Loading, Login, Register, Home pages, Dropdown Menu, etc.
